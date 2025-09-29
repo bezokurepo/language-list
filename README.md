@@ -1,4 +1,4 @@
-# language-list (dervied from Universal Dependencies conllu open source data)
+# language-list (derived from Universal Dependencies conllu open source data)
 ## foundation model availability for training
 Albanian, Armenian, Basque, Bavarian, Catalan, Croatian, Czech, Galician, Hausa, Indonesian, Irish Gaelic, Kygys, Naija, Polish, Romanian, Scottish Gaelic, Sindh, Slovakian, Slovenian, Spanish, Tamil, Telegu, Turkish, Uyghur, Vietnamese, Welsh, Wolof
 ## NER support (derived from Universal NER)
