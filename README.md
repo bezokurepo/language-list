@@ -5,3 +5,5 @@ Albanian, Armenian, Basque, Bavarian, Catalan, Croatian, Czech, Galician, Hausa,
 Brazilian Portuguese, Cebuano, Croatian, Romanian, Slovak, Tagalog
 ## roadmap of languages being annotated or augmented from Universal Dependencies
 Assamese, Cebuano, Haitian Creole, Javanese, Quechua, Tagalog, Thai, Yoruba
+## model repo
+Follow this link for public models - https://github.com/bezokurepo/models
