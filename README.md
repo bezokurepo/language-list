@@ -7,5 +7,7 @@ Brazilian Portuguese, Cebuano, Croatian, Romanian, Slovak, Tagalog
 Assamese, Cebuano, Haitian Creole, Javanese, Quechua, Swahili, Tagalog, Thai, Yoruba
 ## model repo
 Follow this link for public models - https://github.com/bezokurepo/models
+## bezoku annotated files
+you can find bezoku annotated files here - https://github.com/bezokurepo/data
 ## Universal Dependencies
-You can find the original conllu files here - https://github.com/UniversalDependencies
+You can find Universal Dependencies conllu files here - https://github.com/UniversalDependencies
