@@ -4,7 +4,7 @@ Albanian, Armenian, Basque, Bavarian, Catalan, Croatian, Czech, Galician, Hausa,
 ## NER support (derived from Universal NER)
 Brazilian Portuguese, Cebuano, Croatian, Romanian, Slovak, Tagalog
 ## roadmap of languages being annotated or augmented from Universal Dependencies
-Assamese, Cebuano, Haitian Creole, Javanese, Quechua, Tagalog, Thai, Yoruba
+Assamese, Cebuano, Haitian Creole, Javanese, Quechua, Swahili, Tagalog, Thai, Yoruba
 ## model repo
 Follow this link for public models - https://github.com/bezokurepo/models
 ## Universal Dependencies
