@@ -6,10 +6,10 @@ Brazilian Portuguese, Cebuano, Croatian, Romanian, Serbian, Slovak, Tagalog
 ## NER work in progress - derived from other sources
 Catalan, Hausa, Igbo, Naira, Swahili, Wolof, Yoruba
 ## roadmap of languages being annotated or augmented from Universal Dependencies
-Assamese, Bambara, Bengali, Bhojpuri, Cebuano, Gujarati, Igbo, Javanese, Kabyle, Kangri, Kannada, Khoekhoe, Malay, Malayalam, Marathi, Punjabi, Quechua, Swahili, Tagalog, Thai, Urdu, Yoruba
+Assamese, Bambara, Balinese, Bemba, Bengali, Berber, Bhojpuri, Burmese, Cebuano, Dzongkha, Ga, Gujarati, Igbo, Javanese, Kabyle, Kangri, Kannada, Khoekhoe, Lao, Malay, Malayalam, Marathi, Mongolian, Nepali, Punjabi, Quechua, Kiswahili, Kurdish, Tagalog, Tajik, Thai, Urdu, Uzbek, Xhosa, Yoruba
 ## model repo
 Follow this link for public models - https://github.com/bezokurepo/models
 ## bezoku annotated files
-you can find bezoku annotated files here - https://github.com/bezokurepo/data
+work in progress annotated files can be found here - https://github.com/bezokurepo/data
 ## Universal Dependencies
 You can find Universal Dependencies conllu files here - https://github.com/UniversalDependencies
