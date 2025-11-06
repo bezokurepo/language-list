@@ -6,7 +6,7 @@ Due to the availability of CoNLL-U annotated NER corpora, the following language
 ## NER work in progress - derived from other sources
 Due to the availability of other NER corpora, the following languages are being formatted as CoNLL-U corpora to be modeled for NER: Catalan, Hausa, Igbo, Naira, Swahili, Wolof, Yoruba
 ## roadmap of languages being annotated or augmented from Universal Dependencies
-There are no CoNLL-U annoated corpora for the following languages, but they are on the bezoku annotation roadmap: Assamese, Bambara, Balinese, Bemba, Bengali, Berber, Bhojpuri, Burmese, Cebuano, Dzongkha, Ga, Gujarati, Igbo, Javanese, Kabyle, Kangri, Kannada, Khoekhoe, Lao, Malay (broken into Brunei, Malaysia Indonesian and other dialects), Malayalam, Marathi, Mongolian, Nepali, Punjabi (Gurmukhi & Shahmukhi), Quechua, Kiswahili, Kurdish, Tagalog, Tajik, Thai, Urdu, Uzbek, Xhosa, Yoruba
+There are no CoNLL-U annoated corpora for the following languages, but they are on the bezoku annotation roadmap: Assamese, Bambara, Balinese, Bemba, Bengali, Berber, Bhojpuri, Burmese, Cebuano, Dzongkha, Ga, Gujarati, Igbo, Javanese, Kabyle, Kangri, Kannada, Khoekhoe, Lao, Malay (broken into Brunei, Malaysia Indonesian and other dialects), Malayalam, Marathi, Mongolian, Nepali, Punjabi (Gurmukhi & Shahmukhi), Quechua, Kiswahili, Kurdish, Tagalog, Tajik, Thai, Urdu, Uzbek, isiXhosa, Yoruba
 ## model repo
 Follow this link for public models - https://github.com/bezokurepo/models
 ## bezoku annotated files
