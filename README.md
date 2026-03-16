@@ -1,6 +1,8 @@
 # language-list
 ## foundation model availability for downstream applications
-Due to the availability of CoNLL-U annotated corpora, the following languages have been modeled: Armenian, Basque, Brazilian Portuguese, Bulgarian, Catalan, Croatian, Czech, Galician, Georgian, German, Hungarian, Irish Gaelic, Kyrgyz, Naija, Polish, Scottish Gaelic, Sindhi, Slovakian, Slovenian, Spanish, Tamil, Turkish, Ukrainian, Uyghur, Welsh, Wolof
+Due to the availability of CoNLL-U annotated corpora, the following languages have been modeled and will be the foundation for downstream commercial development: Armenian, Brazilian Portuguese, Catalan, Croatian, Georgian, German, Hungarian, Irish Gaelic, Kyrgyz, Naija, Scottish Gaelic, Sindhi, Slovakian, Slovenian, Spanish, Turkish, Uyghur, Welsh, Wolof
+## foundation model solely for open sourced dependency parsing
+Due to the availability of CoNLL-U annotated corpora, the following languages have been modeled and will be used solely for non-commercial dependency parsing: Basque, Bulgarian, Czech, Galician, Polish, Tamil, Ukrainian
 ## NER supported languages - derived from Universal NER
 Due to the availability of CoNLL-U annotated NER corpora, the following languages will be modeled for NER: Brazilian Portuguese, Croatian, Slovak
 ## NER work in progress - derived from other sources
